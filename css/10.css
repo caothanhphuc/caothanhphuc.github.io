@@ -63,9 +63,16 @@ nav a:hover{
 	background-color: blueviolet;
 	color: white;
 }
+#left{
+flex: 30%;
+background-color: #66CCCC;
+}
 #right{
 flex: 70%;
 background-color: gray;
+}
+#flex{
+display: flex;
 }
 
 footer {
