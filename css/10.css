@@ -45,16 +45,6 @@ nav a:hover{
 	background-color: gray;
 	color:red;
 }
-
-}
-#left_slide{
-	flex: 70%;
-	background-color: gray;
-}
-#right_slide{
-	flex: 30%;
-	background-color: #C0C0C0;
-}
 #geo{
 	background-color: blueviolet;
 	color: white;
