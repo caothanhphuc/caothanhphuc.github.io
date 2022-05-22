@@ -1,0 +1,76 @@
+#ctp{
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	color: white;
+	background-color: black;
+	text-align: center;
+	padding: 60px;
+}
+#information{
+	color: white;
+	background-color: black;
+}
+#student{
+	color: white;
+	background-color: black;
+}
+#work{
+	color: white;
+	background-color: black;
+}
+#mxh{
+	color: black;
+	background-color: gray;
+}
+#lienhe{
+	color: black;
+	background-color: gray;
+}
+nav {
+	background-color: pink;
+	overflow: hidden;
+}
+nav a {
+	color: black;
+	padding: 10px 10px 10px 10px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	float: left;
+
+}
+nav a:hover{
+	background-color: gray;
+	color:red;
+}
+
+}
+#left_slide{
+	flex: 70%;
+	background-color: gray;
+}
+#right_slide{
+	flex: 30%;
+	background-color: #C0C0C0;
+}
+#geo{
+	background-color: blueviolet;
+	color: white;
+}
+#latex{
+	background-color: blueviolet;
+	color: white;
+}
+footer {
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+footer a{
+	color: white;
+	text-decoration: none;
+}
+
