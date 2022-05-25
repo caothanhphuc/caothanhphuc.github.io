@@ -57,6 +57,10 @@ nav a:hover{
 	background-color: black;
 	color: white;
 }
+#hn{
+	background-color: black;
+	color: white;
+}
 #left{
 flex: 20%;
 background-color: #66CCCC;
